@@ -5,6 +5,11 @@
 <br/>
 
 > *"I don't just write code — I design systems that think, scale, and perform."*
+>
+> Started with curiosity, stayed for the complexity. I'm a CS undergrad who went
+> from writing basic programs to publishing research at IEEE ICAECT 2026.
+> Whether it's low-level socket programming or full-stack web apps —
+> I build things that actually work under pressure.
 
 <div align="center">
 
