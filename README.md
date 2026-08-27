@@ -13,7 +13,7 @@
 
 <div align="center">
 
-📧 ys6463@srmist.edu.in &nbsp;|&nbsp; 📞 +91-7061293059 &nbsp;|&nbsp; 📍 Trichy, TN, India
+📧 yashpsingh28@gmail.com &nbsp;|&nbsp; 📞 +91-7061293059 &nbsp;|&nbsp; 📍 Trichy, TN, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-pratap-singh-b43925327/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5A0?logo=vercel&logoColor=black)](https://yashe-portfolio.vercel.app/)
