@@ -1,10 +1,10 @@
-<h1 align="center">Yash Pratap Singh</h1>
-
 <div align="center">
 
 <a href="https://github.com/SinghYash2004">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=650&height=50&lines=CS+Undergrad+%7C+Full-Stack+%26+Systems;IEEE+ICAECT+2026+Author;President+%7C+Coding+Club+%26+Code2Career;Open+to+internships+%26+collaborations" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1500&color=00E5A0&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Yash+Pratap+Singh;Welcome+to+my+GitHub" alt="Yash Pratap Singh"/>
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=CS+Undergrad+%7C+Full-Stack+%26+Systems;IEEE+ICAECT+2026+Author;President+%7C+Coding+Club+%26+Code2Career;Open+to+internships+%26+collaborations" alt="Roles"/>
 
 <br/>
 
@@ -13,72 +13,90 @@
 [![IEEE Paper](https://img.shields.io/badge/IEEE_ICAECT_2026-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11426147)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpsingh28@gmail.com)
 
-</div>
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+</div>
 
 ## 👋 About Me
 
-I'm a B.Tech Computer Science student (Class of 2028) at **SRM Institute of Science and Technology**, Tiruchirappalli. I enjoy working across the stack, from low-level socket programming in C++ to full-stack web apps with Spring Boot and JavaScript.
+B.Tech CSE student (Class of 2028) at **SRMIST, Tiruchirappalli**, who likes building across the stack, from C++ socket programming to Spring Boot web apps.
 
-- 🎓 Published a research paper on a **multithreaded C++ server** at **IEEE-sponsored ICAECT 2026**
-- 👥 **President** of the Coding Club at SRMIST and of the **Code2Career (C2C)** Technical Club, Dept. of CSE
-- ☁️ Completed **AWS Academy** Cloud and DevOps / Cloud Automation virtual internships
-- 🧩 Solved **250+** DSA problems
-- 💬 Ask me about: C++ networking, multithreading, Java / Spring Boot, DSA, web development
+- 🎓 Published a **multithreaded C++ server** paper at **IEEE ICAECT 2026**
+- 👥 **President**, Coding Club and Code2Career (C2C) Technical Club, SRMIST
+- ☁️ **AWS Academy** Cloud and DevOps virtual internships
+- 🧩 **400+** DSA problems solved
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+</div>
 
 ## 🚀 Featured Projects
 
-### 🗓️ Timetable Generator
-Automatically generates class timetables from subject, faculty and room constraints, avoiding clashes.
-
-### 🚨 Log-to-Incident Error Generator
-Turns raw application error logs into structured, readable incident reports.
-
-### 💧 JalRakshak: Water Quality Monitoring Dashboard
-A dashboard for monitoring water quality with a dedicated alert screen, built around a dark burgundy theme.
-- **Stack:** HTML, CSS, JavaScript
-
-### 🧵 Multithreaded C++ Server *(IEEE ICAECT 2026)*
-Research and implementation of a multithreaded server in C++ using socket programming.
-- 📄 [Read the paper on IEEE Xplore](https://ieeexplore.ieee.org/document/11426147)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗓️ Timetable Generator</h3>
+      Automatically generates class timetables from subject, faculty and room constraints, avoiding clashes.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚨 Log-to-Incident Error Generator</h3>
+      Turns raw application error logs into structured, readable incident reports.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💧 JalRakshak</h3>
+      Water quality monitoring dashboard with a dedicated alert screen and a dark burgundy theme.<br/><br/>
+      <b>Stack:</b> HTML, CSS, JavaScript
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧵 Multithreaded C++ Server</h3>
+      Research and implementation of a multithreaded socket server in C++, published at IEEE ICAECT 2026.<br/><br/>
+      📄 <a href="https://ieeexplore.ieee.org/document/11426147">Read the paper</a>
+    </td>
+  </tr>
+</table>
 
 👉 More projects: [github.com/SinghYash2004?tab=repositories](https://github.com/SinghYash2004?tab=repositories)
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+</div>
 
 ## 💻 Tech Stack
 
-**Languages**<br/>
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+<div align="center">
 
-**Frontend & Backend**<br/>
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,swift,html,css&theme=dark" alt="Languages"/>
+
+<br/><br/>
+
+**Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=spring,react,express&theme=dark" alt="Frameworks"/>
+
+<br/><br/>
 
 **Databases**<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
 
-**Cloud & DevOps**<br/>
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+<br/><br/>
 
-**Tools & Design**<br/>
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+**Cloud and DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,vercel,cloudflare&theme=dark" alt="Cloud and DevOps"/>
 
----
+<br/><br/>
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" alt="Tools"/>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -89,13 +107,11 @@ Research and implementation of a multithreaded server in C++ using socket progra
 
 <img src="https://streak-stats.demolab.com/?user=SinghYash2004&theme=gotham&hide_border=false" alt="GitHub streak"/>
 
-</div>
+<br/><br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
-## 📫 Let's Connect
-
-<div align="center">
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&height=40&lines=Open+to+internships+and+collaborations;Let's+build+something+great+together" alt="Footer typing animation"/>
 
