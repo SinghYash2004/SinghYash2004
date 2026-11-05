@@ -68,30 +68,51 @@ B.Tech CSE student (Class of 2028) at **SRMIST, Tiruchirappalli**, who likes bui
 ## 💻 Tech Stack
 
 <div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,js,swift,html,css&theme=dark" alt="Languages"/>
-
-<br/><br/>
-
-**Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=spring,react,express&theme=dark" alt="Frameworks"/>
-
-<br/><br/>
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases"/>
-
-<br/><br/>
-
-**Cloud and DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,jenkins,vercel,cloudflare&theme=dark" alt="Cloud and DevOps"/>
-
-<br/><br/>
-
-**Tools**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,figma&theme=dark" alt="Tools"/>
-
+<table>
+  <tr><th colspan="6">Languages</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"/><br/><sub>C++</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"/><br/><sub>Java</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=swift&theme=dark" width="48" height="48" alt="Swift"/><br/><sub>Swift</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"/><br/><sub>HTML</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"/><br/><sub>CSS</sub></td>
+  </tr>
+</table>
+<table>
+  <tr><th colspan="3">Frameworks</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot"/><br/><sub>Spring Boot</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"/><br/><sub>React</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express.js"/><br/><sub>Express.js</sub></td>
+  </tr>
+</table>
+<table>
+  <tr><th colspan="2">Databases</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL"/><br/><sub>MySQL</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"/><br/><sub>MongoDB</sub></td>
+  </tr>
+</table>
+<table>
+  <tr><th colspan="5">Cloud and DevOps</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"/><br/><sub>AWS</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud"/><br/><sub>Google Cloud</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="48" height="48" alt="Jenkins"/><br/><sub>Jenkins</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" height="48" alt="Vercel"/><br/><sub>Vercel</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="48" height="48" alt="Cloudflare"/><br/><sub>Cloudflare</sub></td>
+  </tr>
+</table>
+<table>
+  <tr><th colspan="4">Tools</th></tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"/><br/><sub>Git</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"/><br/><sub>GitHub</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux"/><br/><sub>Linux</sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma"/><br/><sub>Figma</sub></td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
