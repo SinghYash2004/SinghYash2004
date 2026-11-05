@@ -1,8 +1,12 @@
+<h1 align="center">Yash Pratap Singh</h1>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,100:00629B&height=180&section=header&text=Yash%20Pratap%20Singh&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=CS%20Undergrad%20%7C%20IEEE%20Published%20%7C%20Full-Stack%20%26%20Systems&descAlignY=60&descSize=16" alt="Header banner" width="100%"/>
+<a href="https://github.com/SinghYash2004">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=650&height=50&lines=CS+Undergrad+%7C+Full-Stack+%26+Systems;IEEE+ICAECT+2026+Author;President+%7C+Coding+Club+%26+Code2Career;Open+to+internships+%26+collaborations" alt="Typing animation"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=600&lines=Building+systems+that+scale;IEEE+ICAECT+2026+Author;President+%7C+Coding+Club+%26+Code2Career;Open+to+internships+%26+collaborations)](https://github.com/SinghYash2004)
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-pratap-singh-b43925327/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00E5A0?style=for-the-badge&logo=vercel&logoColor=black)](https://yashe-portfolio.vercel.app/)
@@ -27,18 +31,15 @@ I'm a B.Tech Computer Science student (Class of 2028) at **SRM Institute of Scie
 
 ## 🚀 Featured Projects
 
-### 🔐 ClearText: Sensitive Data Detector
-A web tool that detects sensitive information (emails, phone numbers, identifiers) in text and redacts it.
-- **Frontend:** HTML + vanilla JavaScript
-- **Backend:** Java, Spring Boot REST API (`POST /api/scan`, `POST /api/redact`)
+### 🗓️ Timetable Generator
+Automatically generates class timetables from subject, faculty and room constraints, avoiding clashes.
+
+### 🚨 Log-to-Incident Error Generator
+Turns raw application error logs into structured, readable incident reports.
 
 ### 💧 JalRakshak: Water Quality Monitoring Dashboard
 A dashboard for monitoring water quality with a dedicated alert screen, built around a dark burgundy theme.
 - **Stack:** HTML, CSS, JavaScript
-
-### 🧭 NavIQ: Offline Indoor Navigation *(iQOO Hackathon 2026, Smart Living track)*
-Camera-based indoor navigation for large interior spaces like campuses and hospitals. Places can be scanned and mapped, and maps can be downloaded in advance for use with weak or no network.
-- **Focus:** on-device vision AI, offline-first design
 
 ### 🧵 Multithreaded C++ Server *(IEEE ICAECT 2026)*
 Research and implementation of a multithreaded server in C++ using socket programming.
@@ -57,6 +58,7 @@ Research and implementation of a multithreaded server in C++ using socket progra
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 **Frontend & Backend**<br/>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
@@ -93,12 +95,10 @@ Research and implementation of a multithreaded server in C++ using socket progra
 
 ## 📫 Let's Connect
 
-**Open to internships and collaborations.** Feel free to reach out.
-
-📧 [yashpsingh28@gmail.com](mailto:yashpsingh28@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/yash-pratap-singh-b43925327/) &nbsp;|&nbsp; 🌐 [Portfolio](https://yashe-portfolio.vercel.app/)
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00629B,100:00E5A0&height=100&section=footer" alt="Footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&height=40&lines=Open+to+internships+and+collaborations;Let's+build+something+great+together" alt="Footer typing animation"/>
+
+📧 [yashpsingh28@gmail.com](mailto:yashpsingh28@gmail.com) &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/yash-pratap-singh-b43925327/) &nbsp;|&nbsp; 🌐 [Portfolio](https://yashe-portfolio.vercel.app/)
 
 </div>
