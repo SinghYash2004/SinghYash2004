@@ -8,6 +8,10 @@
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-pratap-singh-b43925327/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E5A0?style=for-the-badge&logo=vercel&logoColor=black)](https://yashe-portfolio.vercel.app/)
+[![IEEE Paper](https://img.shields.io/badge/IEEE_ICAECT_2026-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/11426147)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashpsingh28@gmail.com)
 
 <br/>
 
