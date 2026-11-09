@@ -71,55 +71,45 @@ B.Tech CSE student (Class of 2028) at **SRMIST, Tiruchirappalli**, who likes bui
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=30&lines=From+C%2B%2B+sockets+to+Spring+Boot+apps;Cloud+%7C+DevOps+%7C+Full-Stack" alt="stack tagline"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00E5A0,100:58A6FF&height=60&section=header&text=Languages&fontSize=28&fontColor=0d1117&animation=fadeIn&fontAlignY=50" width="60%" alt="Languages"/>
-<br/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:6DB33F,100:00E5A0&height=60&section=header&text=Frameworks&fontSize=28&fontColor=0d1117&animation=scaleIn&fontAlignY=50" width="60%" alt="Frameworks"/>
-<br/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<table>
+  <tr>
+    <td align="center" valign="top" width="25%">
+      <h3>🧠 Languages</h3>
+      <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++"/><br/>
+      <img src="https://img.shields.io/badge/Java-161b22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/><br/>
+      <img src="https://img.shields.io/badge/Swift-161b22?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift"/><br/>
+      <img src="https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/><br/>
+      <img src="https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <h3>⚙️ Frameworks & DBs</h3>
+      <img src="https://img.shields.io/badge/Spring_Boot-161b22?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot"/><br/>
+      <img src="https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/><br/>
+      <img src="https://img.shields.io/badge/Express.js-161b22?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/><br/>
+      <img src="https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=5B9BD5" alt="MySQL"/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB"/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/><br/>
+      <img src="https://img.shields.io/badge/Google_Cloud-161b22?style=for-the-badge&logo=googlecloud&logoColor=4285F4" alt="Google Cloud"/><br/>
+      <img src="https://img.shields.io/badge/Jenkins-161b22?style=for-the-badge&logo=jenkins&logoColor=D24939" alt="Jenkins"/><br/>
+      <img src="https://img.shields.io/badge/Vercel-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><br/>
+      <img src="https://img.shields.io/badge/Cloudflare-161b22?style=for-the-badge&logo=cloudflare&logoColor=F38020" alt="Cloudflare"/>
+    </td>
+    <td align="center" valign="top" width="25%">
+      <h3>🛠️ Tools</h3>
+      <img src="https://img.shields.io/badge/Git-161b22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/><br/>
+      <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br/>
+      <img src="https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/><br/>
+      <img src="https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma"/>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4479A1,100:47A248&height=60&section=header&text=Databases&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="60%" alt="Databases"/>
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF9900,100:F38020&height=60&section=header&text=Cloud+and+DevOps&fontSize=28&fontColor=0d1117&animation=scaleIn&fontAlignY=50" width="60%" alt="Cloud and DevOps"/>
-<br/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:F05032,100:A259FF&height=60&section=header&text=Tools&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="60%" alt="Tools"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 </div>
 
 ## 📊 GitHub Stats
